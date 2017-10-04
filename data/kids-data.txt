@@ -1,27 +1,27 @@
-name      gender behavior  toy_1         toy_2         toy_3         toy_4         toy_5         toy_6          street_number  street_name    street_suffix  postal_code  house_value  |  infraction
-alice     girl   nice      Monopoly      Batman        Kaleidoscope  Skates        Slinky        Transformers   86             Waterford      Dr             M4K1E8       999888
-ben       boy    nice      Blocks        Dominoes      Monopoly      Bear          Bicycle       Lego           230            King           St             M6K1E1       362000
-costa     boy    naughty   Bear          Bicycle       Lego          Boat          Car           Blocks         166            Mcnicoll       Ave            M4K1B2       1290000      |  pushed your sister off the roof
-dale      kid    nice      Truck         Barbie        Slinky        Crayons       Doll          Dominoes       430            Military       Tr             M1K1B1       675000
-eileen    girl   nice      Crayons       Doll          Batman        Meccano       Gumby         Soldier        2627           Mccowan        Rd             M8K1E5       4901234
-fred      boy    naughty   Meccano       Gumby         Soldier       Kaleidoscope  Pony          Lego           247            Westmount      Ave            M4L1E1       123094       |  emptied your dad's $500 bottle of Johnnie Walker Blue
-gordie    boy    nice      Bicycle       Pony          Lego          Barbie        Slinky        Clue           31             Yorkshire      Rd             M8L5E6       499900
-harold    boy    nice      Barbie        Slinky        Clue          Plane         Pony          Risk           34             Ordway         Rd             M7L5D8       599000
-isadora   girl   nice      Plane         Pony          Risk          Robot         Zelda         Scrabble       47             Waterbeach     Cres           M2L1K8       549900
-joan      girl   nice      Robot         Zelda         Scrabble      Skates        Slinky        Clue           2              Moraine        Hill           M4L7K3       698000
-katie     girl   nice      Robot         Slinky        Clue          Meccano       Sorry         Stickers       11             Mid            Pines          M2L7D9       1456783
-lula      girl   nice      Meccano       Sorry         Stickers      Synthesizer   Transformers  Truck          49             Cadillac       Ave            M5A1D3       1149000
-melissa   girl   nice      Synthesizer   Transformers  Truck         Clue          Twister       Uno            61             Mayland        Tr             M4A1E4       399900
-nora      girl   naughty   Clue          Twister       Uno           Crayons       Doll          Blocks         48             Evans          St             M4A1E3       329000       |  stole money from your mom's wallet and blamed your brother
+name      gender behavior  toy_1         toy_2         toy_3         toy_4         toy_5         toy_6          street_number  street_name    street_suffix  postal_code  house_value   last_year_toy |  infraction
+alice     girl   nice      Monopoly      Batman        Kaleidoscope  Skates        Slinky        Transformers   86             Waterford      Dr             M4K1E8       999888        furby
+ben       boy    nice      Blocks        Dominoes      Monopoly      Bear          Bicycle       Lego           230            King           St             M6K1E1       362000        furby
+costa     boy    naughty   Bear          Bicycle       Lego          Boat          Car           Blocks         166            Mcnicoll       Ave            M4K1B2       1290000       furby         |  pushed your sister off the roof
+dale      kid    nice      Truck         Barbie        Slinky        Crayons       Doll          Dominoes       430            Military       Tr             M1K1B1       675000        furby
+eileen    girl   nice      Crayons       Doll          Batman        Meccano       Gumby         Soldier        2627           Mccowan        Rd             M8K1E5       4901234       furby
+fred      boy    naughty   Meccano       Gumby         Soldier       Kaleidoscope  Pony          Lego           247            Westmount      Ave            M4L1E1       123094        furby         |  emptied your dad's $500 bottle of Johnnie Walker Blue
+gordie    boy    nice      Bicycle       Pony          Lego          Barbie        Slinky        Clue           31             Yorkshire      Rd             M8L5E6       499900        furby
+harold    boy    nice      Barbie        Slinky        Clue          Plane         Pony          Risk           34             Ordway         Rd             M7L5D8       599000        furby
+isadora   girl   nice      Plane         Pony          Risk          Robot         Zelda         Scrabble       47             Waterbeach     Cres           M2L1K8       549900        furby
+joan      girl   nice      Robot         Zelda         Scrabble      Skates        Slinky        Clue           2              Moraine        Hill           M4L7K3       698000        furby
+katie     girl   nice      Robot         Slinky        Clue          Meccano       Sorry         Stickers       11             Mid            Pines          M2L7D9       1456783       furby
+lula      girl   nice      Meccano       Sorry         Stickers      Synthesizer   Transformers  Truck          49             Cadillac       Ave            M5A1D3       1149000       furby
+melissa   girl   nice      Synthesizer   Transformers  Truck         Clue          Twister       Uno            61             Mayland        Tr             M4A1E4       399900        furby
+nora      girl   naughty   Clue          Twister       Uno           Crayons       Doll          Blocks         48             Evans          St             M4A1E3       329000        furby         |  stole money from your mom's wallet and blamed your brother
 omar      boy    nice      Crayons       Doll          Blocks        Barbie        Batman        Clue           9              Struthers      St             M4Q1D9       749000
 penelope  girl   nice      Barbie        Batman        Clue          Boat          Car           Blocks         26             Waterbury      Dr             M3Q1E3       595500
-quenten   boy    naughty   Boat          Dominoes      Blocks        Meccano       Bicycle       Lego           1              Silbury        Dr             M4Z1E8       709900       |  teased your cute cat mercilessly
-rory      boy    naughty   Meccano       Bicycle       Lego          Kaleidoscope  Soldier       Life           85             Autumn         Glen           M4Z1E4       250000       |  made pipe bombs and blew them up in forest
-sydney    girl   nice      Skates        Soldier       Kaleidoscope  Robot         Uno           Monopoly       175            Haddington     Ave            M5J1H1       2888000
-tyrome    boy    nice      Kaleidoscope  Bear          Monopoly      Twister       Uno           Truck          68             Kenilworth     Ave            M6Q1H4       1929000
-umberto   boy    nice      Twister       Car           Truck         Plane         Battleship    Pony           138            Mckee          Ave            M4T1H6       3988000
-vivian    girl   nice      Plane         Battleship    Pony          Frisbee       Gumby         Clue           22             Strathearn     Blvd           M6T1H3       5288000
-waldo     boy    nice      Frisbee       Gumby         Clue          Meccano       Life          Stickers       5051           Finch          Ave            M9T1E6       145000
-xiang     boy    nice      Meccano       Sorry         Stickers      Robot         Zelda         Scrabble       1060           Midland        Ave            M4A1E9       699900
-yuri      boy    nice      Robot         Uno           Scrabble      Synthesizer   Bear          Truck          70             Dundalk        Dr             M3A1E8       113430
-zoe       girl   naughty   Synthesizer   Bear          Truck         Skates        Sorry         Transformers   112            Helendale      Ave            M2K1E8       989000       |  made a campfire in your parent's basement
+quenten   boy    naughty   Boat          Dominoes      Blocks        Meccano       Bicycle       Lego           1              Silbury        Dr             M4Z1E8       709900        furby         |  teased your cute cat mercilessly
+rory      boy    naughty   Meccano       Bicycle       Lego          Kaleidoscope  Soldier       Life           85             Autumn         Glen           M4Z1E4       250000        furby         |  made pipe bombs and blew them up in forest
+sydney    girl   nice      Skates        Soldier       Kaleidoscope  Robot         Uno           Monopoly       175            Haddington     Ave            M5J1H1       2888000       furby
+tyrome    boy    nice      Kaleidoscope  Bear          Monopoly      Twister       Uno           Truck          68             Kenilworth     Ave            M6Q1H4       1929000       furby
+umberto   boy    nice      Twister       Car           Truck         Plane         Battleship    Pony           138            Mckee          Ave            M4T1H6       3988000       furby
+vivian    girl   nice      Plane         Battleship    Pony          Frisbee       Gumby         Clue           22             Strathearn     Blvd           M6T1H3       5288000       furby
+waldo     boy    nice      Frisbee       Gumby         Clue          Meccano       Life          Stickers       5051           Finch          Ave            M9T1E6       145000        furby
+xiang     boy    nice      Meccano       Sorry         Stickers      Robot         Zelda         Scrabble       1060           Midland        Ave            M4A1E9       699900        furby
+yuri      boy    nice      Robot         Uno           Scrabble      Synthesizer   Bear          Truck          70             Dundalk        Dr             M3A1E8       113430        furby
+zoe       girl   naughty   Synthesizer   Bear          Truck         Skates        Sorry         Transformers   112            Helendale      Ave            M2K1E8       989000        furby         |  made a campfire in your parent's basement
